@@ -157,4 +157,14 @@ body{
    background-color: #004d9d;
    color: #ffffff;
 }
+/* header */
+header{
+   position: fixed;
+   top: 24px;
+   left: 24px;
+}
 
+h1{
+   font-size: 24px;
+   margin-bottom: 5px;
+}
