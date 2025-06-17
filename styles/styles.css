@@ -175,7 +175,7 @@ h1{
 section{
    height: 100vh;
    width: 100%;
-   background-image: url(assets/alexey-komissarov_1.jpg);
+   background-image: url(../assets/alexey-komissarov_1.jpg);
    background-size: cover;
    background-position: center;
    background-repeat: no-repeat;
@@ -183,31 +183,31 @@ section{
 }
 
 .image_2{
-   background-image: url(assets/alexander-lunyov_2.jpg);
+   background-image: url(../assets/alexander-lunyov_2.jpg);
 }
 
 .image_3{
-   background-image: url(assets/carl-newton_3.jpg);
+   background-image: url(../assets/carl-newton_3.jpg);
 }
 
 .image_4{
-   background-image: url(assets/alexander-lunyov_4.jpg);
+   background-image: url(../assets/alexander-lunyov_4.jpg);
 }
 
 .image_5{
-   background-image: url(assets/alexander-lunyov_5.jpg);
+   background-image: url(../assets/alexander-lunyov_5.jpg);
 }
 
 .image_6{
-   background-image: url(assets/alexander-lunyov_6.jpg);
+   background-image: url(../assets/alexander-lunyov_6.jpg);
 }
 
 .image_7{
-   background-image: url(assets/alexander-lunyov_7.jpg);
+   background-image: url(../assets/alexander-lunyov_7.jpg);
 }
 
 .image_8{
-   background-image: url(assets/trent-erwin_8.jpg)
+   background-image: url(../assets/trent-erwin_8.jpg)
 }
 
 /* Footer */
