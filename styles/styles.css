@@ -150,6 +150,7 @@ select {
    text-rendering: optimizeLegibility;
    scroll-behavior: smooth;
 }
+
 /* body */
 body{
    font-size: 16px;
@@ -157,6 +158,7 @@ body{
    background-color: #004d9d;
    color: #ffffff;
 }
+
 /* header */
 header{
    position: fixed;
@@ -167,21 +169,6 @@ header{
 h1{
    font-size: 24px;
    margin-bottom: 5px;
-}
-
-/* Footer */
-footer{
-   position: fixed;
-   bottom: 20px;
-   left: 20px;
-}
-
-a{
-   text-decoration: none;
-   color: #ffffff;
-}
-a:hover{
-   color: #dddddd;
 }
 
 /* Section */
@@ -221,4 +208,24 @@ section{
 
 .image_8{
    background-image: url(/assets/trent-erwin_8.jpg);
+}
+
+/* Footer */
+footer{
+   position: fixed;
+   bottom: 20px;
+   left: 20px;
+}
+
+footer a{
+   margin-right: 5px;
+}
+
+a{
+   text-decoration: none;
+   color: #ffffff;
+}
+
+a:hover{
+   color: #dddddd;
 }
