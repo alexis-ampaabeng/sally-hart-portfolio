@@ -168,3 +168,9 @@ h1{
    font-size: 24px;
    margin-bottom: 5px;
 }
+
+footer{
+   position: fixed;
+   bottom: 20px;
+   left: 20px;
+}
